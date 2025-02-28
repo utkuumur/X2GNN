@@ -1,7 +1,7 @@
-# [LEARNING TO EXPLORE AND EXPLOIT WITH GNNS FOR UNSUPERVISED COMBINATORIAL OPTIMIZATION](https://openreview.net/forum?id=vaJ4FObpXN)
+# [Learning to Explore and Exploit with GNNs For Unsupervised Combinatorial Optimization](https://openreview.net/forum?id=vaJ4FObpXN)
 This repository contains the official implementation of the paper:
 
-**LEARNING TO EXPLORE AND EXPLOIT WITH GNNS FOR UNSUPERVISED COMBINATORIAL OPTIMIZATION**
+**Learning to Explore and Exploit with GNNs For Unsupervised Combinatorial Optimization**
 
 ## Overview
 
@@ -140,7 +140,7 @@ Figures demonstrates that MC benefits from prioritizing exploration (higher C), 
   <img src="clique-test-time.png" alt="X2GNN Method" width="400px">
 </div>
 
-### MIS 
+### Independent Set 
 <div align="center">
   <img src="mis-test-time.png" alt="X2GNN Method" width="400px">
 </div>
@@ -150,8 +150,7 @@ Figures demonstrates that MC benefits from prioritizing exploration (higher C), 
 If you find our work useful, please cite our paper:
 
 ```bibtex
-@inproceedings{
-acikalin2025learning,
+@inproceedings{acikalin2025learning,
 title={Learning to Explore and Exploit with {GNN}s for Unsupervised Combinatorial Optimization},
 author={Utku Umur ACIKALIN and Aaron M Ferber and Carla P Gomes},
 booktitle={The Thirteenth International Conference on Learning Representations},
