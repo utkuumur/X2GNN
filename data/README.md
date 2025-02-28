@@ -17,4 +17,4 @@ The codebase assumes that graphs are represented as [NetworkX](https://networkx.
 - **Small Datasets**: Training and evaluation data for *RB200-300* and *BA200-300* are included in the repository.
 - **Large Datasets**: For larger datasets, please download them from the Google Drive link below:
 
-📂 **[Google Drive Link](#)** (Replace `#` with the actual link)
+📂 **[Google Drive Link](https://drive.google.com/drive/folders/1Fi87aPlofdDVlCmdxh45vATjBlQ8a1VM?usp=sharing)**
